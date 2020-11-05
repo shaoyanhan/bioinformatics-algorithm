@@ -1,0 +1,9 @@
+score=24
+entries=43
+running time=0.0013/s
+
+>seq1
+AWGHE
+
+>seq2
+AW-HE

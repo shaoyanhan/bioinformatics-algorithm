@@ -1,0 +1,9 @@
+score=10
+entries=65
+running time=0.0013/s
+
+>seq1
+tga-caat
+
+>seq2
+tgagc-at

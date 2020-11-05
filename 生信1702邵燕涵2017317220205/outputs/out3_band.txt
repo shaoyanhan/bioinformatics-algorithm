@@ -1,0 +1,9 @@
+score=234
+entries=841
+running time=0.1931/s
+
+>seq1
+gcggcgcaagatggcccaggagaaccccaagatgcacaactcggagatcagcaagcgcctgggcgccgagtggaaacttttgtcggagacggagaagcggccgttcatcgacgaggctaa
+
+>seq2
+gcggcgcaagatggcccaagagaaccccaagatgcacaactcggagatcagcaagcgcctgggcgccgagtggaaacttttgtcggagacggagaagcggccgttcatcgacgaggccaa

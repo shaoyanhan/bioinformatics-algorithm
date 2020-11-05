@@ -1,0 +1,5 @@
+>seq1
+tgacaatccc
+
+>seq2
+tgagcatggt
